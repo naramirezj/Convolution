@@ -1,0 +1,38 @@
+
+Academic honesty certification:
+  Written/online sources used:
+   King, K. N. (2008). C Programming: A modern approach. W. W. Norton.
+   
+   Weinman, J. (2021). CSC 161 : Functions and Pointers. CSC-161 Fall
+  2021.htmlttps://weinman.cs.grinnell.edu/courses/CSC161/2021F/homework/gcd-redu
+  ce.shtml
+  
+   Weinman, J. (2021a). CSC 161 : Conditionals in C. CSC-161 Fall
+  2021. https://weinman.cs.grinnell.edu/courses/CSC161/2021F/modules/cond-loops-
+  motion/readings/conditionals.shtml
+
+   Weinman, J. (2021a). CSC 161 : Functions. CSC-161 Fall
+  2021. https://weinman.cs.grinnell.edu/courses/CSC161/2021F/modules/cond-loops-
+  motion/labs/loops.shtml
+
+  Weinman, J. (2021a). CSC 161 : Reading Data. CSC-161 Fall
+  https://weinman.cs.grinnell.edu/courses/CSC161/2021F/modules/chars-io/readings/scanf.shtml
+
+  Weinman, J. (2021a). CSC 161 : Characters and Strings. CSC-161 Fall
+  2021. https://weinman.cs.grinnell.edu/courses/CSC161/2021F/modules/cond-loops-
+  motion/labs/loops.shtml
+
+  Weinman, J. (2021a). CSC 161 :Image Convolution. CSC-161 Fall
+  2021. https://weinman.cs.grinnell.edu/courses/CSC161/2021F/modules/cond-loops-
+  motion/labs/loops.shtml
+
+  Weinman, J. (2021a). CSC 161 :Image Processing. CSC-161 Fall
+  2021. https://weinman.cs.grinnell.edu/courses/CSC161/2021F/modules/cond-loops-
+  motion/labs/loops.shtml
+
+  Gimp. (n.d.). 8.2. Convolution Matrix. 8.2. convolution matrix. Retrieved
+  November 16, 2021, from
+  https://docs.gimp.org/2.8/en/plug-in-convmatrix.html.
+
+  Powell, V. (2014). Image Kernels explained visually. Explained Visually.
+  https://setosa.io/ev/image-kernels/
